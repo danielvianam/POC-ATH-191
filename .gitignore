@@ -1,0 +1,13 @@
+# dependencies
+**/node_modules/
+
+# IDE - VSCode
+.vscode/*
+.history/*
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Angular cache
+**/.angular/cache/
